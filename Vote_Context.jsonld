@@ -48,9 +48,8 @@
       }
     }
   },
-  "authors": [],
   "body": {
-    "comment": "We believe increasing Cardano's 'k' parameter from 500 to 1000 will boost rewards by redistributing stake across more pools. This change would push saturated pools to split or release excess stake, supporting smaller pools and fostering a more decentralized network. Raising 'k' encourages stake flow and increased community engagement, reinforcing Cardano’s commitment to sustainable decentralization."
+    "comment": "Reducing the treasury tax from 20% to 10% threatens the long-term sustainability of the Cardano ecosystem. The current tax ensures stability by funding future growth and development. Cutting it primarily benefits large stake pools while limiting the treasury’s ability to support innovation and resilience in an uncertain future.\nThe treasury is a key mechanism for decentralization and sustainability, fueled by transaction-based contributions that reflect active ecosystem engagement. Weakening its replenishment risks concentrating governance power in a few wallets, reducing meaningful circulation and long-term viability."
   },
   "hashAlgorithm": "blake2b-256"
 }
